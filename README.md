@@ -1,12 +1,12 @@
-#PostgreSQL Practice (Entrega VOF)
+# PostgreSQL Practice (Entrega VOF)
 
-##Description
+## Description
 
 This repository contains SQL exercises and queries developed as part of a
 PostgreSQL practice project where the goal is to explore relational data
 analysis using joins, aggregations, window functions and CTEs.
 
-##Dataset
+## Dataset
 
 The exercises use a relational dataset that includes the following tables:
 
@@ -18,7 +18,7 @@ The exercises use a relational dataset that includes the following tables:
 This tables simulate airline operations and are used to practice analytical
 SQL queries.
 
-##Technologies
+## Technologies
 
 - PostgreSQL
 - SQL
